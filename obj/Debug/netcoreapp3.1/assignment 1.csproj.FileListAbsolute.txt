@@ -1,0 +1,13 @@
+C:\c# assignment\assignment 1\assignment 1\bin\Debug\netcoreapp3.1\assignment 1.exe
+C:\c# assignment\assignment 1\assignment 1\bin\Debug\netcoreapp3.1\assignment 1.deps.json
+C:\c# assignment\assignment 1\assignment 1\bin\Debug\netcoreapp3.1\assignment 1.runtimeconfig.json
+C:\c# assignment\assignment 1\assignment 1\bin\Debug\netcoreapp3.1\assignment 1.runtimeconfig.dev.json
+C:\c# assignment\assignment 1\assignment 1\bin\Debug\netcoreapp3.1\assignment 1.dll
+C:\c# assignment\assignment 1\assignment 1\bin\Debug\netcoreapp3.1\assignment 1.pdb
+C:\c# assignment\assignment 1\assignment 1\obj\Debug\netcoreapp3.1\assignment 1.csprojAssemblyReference.cache
+C:\c# assignment\assignment 1\assignment 1\obj\Debug\netcoreapp3.1\assignment 1.AssemblyInfoInputs.cache
+C:\c# assignment\assignment 1\assignment 1\obj\Debug\netcoreapp3.1\assignment 1.AssemblyInfo.cs
+C:\c# assignment\assignment 1\assignment 1\obj\Debug\netcoreapp3.1\assignment 1.csproj.CoreCompileInputs.cache
+C:\c# assignment\assignment 1\assignment 1\obj\Debug\netcoreapp3.1\assignment 1.dll
+C:\c# assignment\assignment 1\assignment 1\obj\Debug\netcoreapp3.1\assignment 1.pdb
+C:\c# assignment\assignment 1\assignment 1\obj\Debug\netcoreapp3.1\assignment 1.genruntimeconfig.cache
